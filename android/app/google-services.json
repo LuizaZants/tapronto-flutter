@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203244764915",
+    "project_id": "ta-pronto-app-df47e",
+    "storage_bucket": "ta-pronto-app-df47e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203244764915:android:bed9ca79a6c0adc83ec186",
+        "android_client_info": {
+          "package_name": "com.example.ta_pronto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAdu3nxam801lXUUShQUwQS-7wS1fgfx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
