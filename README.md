@@ -43,11 +43,15 @@
 
 ## Screenshots
 
-| Login | Home | Detalhe | Favoritos |
-|-------|------|---------|-----------|
-| ![Login](docs/screenshots/01_login.png) | ![Home](docs/screenshots/02_home.png) | ![Detalhe](docs/screenshots/04_detail.png) | ![Favoritos](docs/screenshots/07_favorites.png) |
+| Login (V1) | Login (V2) | Home | Pesquisa |
+| :---: | :---: | :---: | :---: |
+| ![Login](docs/prints/login.png) | ![Login 2](docs/prints/login2.png) | ![Home](docs/prints/home.png) | ![Pesquisa](docs/prints/research.png) |
 
-> Todos os prints estão em (docs/prints/) 
+| Detalhes | Favoritos |
+| :---: | :---: |
+| ![Detalhes](docs/prints/details.png) | ![Favoritos](docs/prints/favorites.png) |
+
+> Todos os prints estão localizados em `docs/prints/`
 
 ---
 
