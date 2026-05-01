@@ -25,19 +25,17 @@
 | Integração com Firebase | | Auth (login/cadastro) + Firestore (favoritos em tempo real) |
 | README bem feito | | Este arquivo |
 | Código-fonte Dart versionado | | Repositório GitHub com toda a pasta `lib/` |
-| Desenho da arquitetura | | [`docs/architecture.svg`](docs/architecture.svg) |
 | Prints da aplicação | | [`docs/screenshots/`](docs/screenshots/) |
 | Link APK / versão web | | *Ver seção abaixo* |
 
 ---
 
-## 🔗 Links
+## Links
 
 | Recurso | Link |
 |---------|------|
 | **Download APK** | `_link a ser adicionado após o build_` |
-| **Versão Web** | `_link a ser adicionado após o deploy_` |
-| **Repositório GitHub** | `_link a ser adicionado_` |
+| **Repositório GitHub** | `https://github.com/LuizaZants/tapronto-flutter.git` |
 
 ---
 
@@ -55,9 +53,6 @@
 
 ---
 
-## Arquitetura
-
-![Arquitetura do App](docs/architecture.svg)
 
 ### Camadas
 
@@ -147,7 +142,7 @@ lib/
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/ta-pronto.git
+git clone https://github.com/LuizaZants/tapronto-flutter.git
 cd ta-pronto
 ```
 
