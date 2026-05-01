@@ -52,7 +52,15 @@
 > Todos os prints estão localizados em `docs/prints/`
 
 ---
+##  Download do App
 
+Para testar o aplicativo diretamente no seu Android, você pode baixar a versão mais recente gerada automaticamente:
+
+*   **[Baixar APK (Última Versão)](https://github.com/LuizaZants/tapronto-flutter/actions/workflows/build.yml)**
+
+> **Nota**: Ao clicar no link, selecione a execução mais recente com o selo verde de **Success** e role até a seção **Artifacts** no final da página para baixar o arquivo `app-release.apk`.
+
+---
 
 ### Camadas
 
